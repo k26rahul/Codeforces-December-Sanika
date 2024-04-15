@@ -1,2 +1,1 @@
-# Codeforces-December-Sanika
- Solving Codeforces beginners problems with Sanika.
+Codeforces-December-Sanika: Solving Codeforces beginners problems with Sanika.
